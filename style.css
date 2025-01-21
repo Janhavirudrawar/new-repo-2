@@ -1,0 +1,33 @@
+body{
+
+    display:flex;
+    justify-content: center;
+    padding-top: 15%;
+
+}
+.KRISHNA{
+    background-color: rgb(62, 129, 206);
+}
+.container{
+    
+    text-align: center;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 20px ;
+  padding-bottom: 20px ;
+  padding-right: 1cm 0;
+  padding-left: 1cm 0;
+   width: 500px;
+  border-radius: 25px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  
+}
+
+
+
+.background{
+    background-image: url('https://pin.it/2M93HdNBw');
+}
+
+    

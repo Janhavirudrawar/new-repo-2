@@ -1,0 +1,25 @@
+.btn {
+    background-color: rgb(62, 129, 206);
+}
+
+.container {
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 1cm 0;
+    padding-left: 1cm 0;
+    width: 500px;
+    border-radius: 25px;
+
+}
+
+body {
+    background-color: rgba(186, 197, 123, 0.849);
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+
+
+}
